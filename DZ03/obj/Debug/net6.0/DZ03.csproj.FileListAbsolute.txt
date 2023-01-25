@@ -1,0 +1,15 @@
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\bin\Debug\net6.0\DZ03.exe
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\bin\Debug\net6.0\DZ03.deps.json
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\bin\Debug\net6.0\DZ03.runtimeconfig.json
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\bin\Debug\net6.0\DZ03.dll
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\bin\Debug\net6.0\DZ03.pdb
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\obj\Debug\net6.0\DZ03.csproj.AssemblyReference.cache
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\obj\Debug\net6.0\DZ03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\obj\Debug\net6.0\DZ03.AssemblyInfoInputs.cache
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\obj\Debug\net6.0\DZ03.AssemblyInfo.cs
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\obj\Debug\net6.0\DZ03.csproj.CoreCompileInputs.cache
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\obj\Debug\net6.0\DZ03.dll
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\obj\Debug\net6.0\refint\DZ03.dll
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\obj\Debug\net6.0\DZ03.pdb
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\obj\Debug\net6.0\DZ03.genruntimeconfig.cache
+C:\Users\s.sergeev\Desktop\lesson_5_C_sharp\lesson_5_DZ\DZ03\obj\Debug\net6.0\ref\DZ03.dll
